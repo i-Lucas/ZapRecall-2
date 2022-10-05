@@ -21,7 +21,7 @@ export const data = {
         { question: "Qual é o HTML correto para fazer uma área de texto ?", answer: "<textarea>" },
         { question: "Comentários HTML começam com <!-- e terminam com -->", answer: "Verdadeiro" },
         { question: "Elementos de bloco normalmente são exibidos sem iniciar uma nova linha.", answer: "Falso" },
-        { question: "Qual elemento HTML define o título de um documento?", answer: "" },
+        { question: "Qual elemento HTML define o título de um documento?", answer: "<h1>" },
         { question: "Usamos __ para especificar um rodapé para um documento ou seção", answer: "<footer>" }
     ],
 
