@@ -5,6 +5,7 @@ import "../assets/styles/reset.css";
 import "../assets/styles/global.css";
 
 import Main from "../pages/main";
+import NotFound from "../pages/notfound";
 
 export default function App() {
     return (
@@ -15,8 +16,4 @@ export default function App() {
             </Routes>
         </BrowserRouter>
     )
-};
-
-function NotFound() {
-    return <h1>NotFound</h1>
 };
